@@ -7,7 +7,7 @@ This simple library provides an easy way to extract a given property from an arr
 ## Usage
 
 ```
-array extract_property( array $objects [, mixed $key] [, mixed $index] )
+array extract_property( array $objects, mixed $key [, mixed $index] )
 ```
 
 Given an array of objects, `extract_property()` returns the values
