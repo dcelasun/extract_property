@@ -1,5 +1,7 @@
 # extract_property() for PHP
 
+[![Build Status](https://travis-ci.org/dcelasun/extract_property.png)](https://travis-ci.org/dcelasun/extract_property)
+
 This simple library provides an easy way to extract a given property from an array of objects.
 
 ## Usage
