@@ -1,0 +1,21 @@
+{
+    "name": "dcelasun/extract_property",
+    "description": "Extracts a given property from an array of objects",
+    "type": "library",
+    "keywords": ["extract", "property", "extract_property"],
+    "homepage": "https://github.com/dcelasun/extract_property",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Can Celasun",
+            "homepage": "http://durucancelasun.info"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/dcelasun/extract_property/issues",
+        "source": "https://github.com/dcelasun/extract_property"
+    },
+    "autoload": {
+        "files": ["src/extract_property.php"]
+    }
+}
