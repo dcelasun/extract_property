@@ -79,7 +79,7 @@ to your project's `composer.json` file:
 ``` javascript
 {
     "require": {
-        "dcelasun/extract_property": "~1.1"
+        "dcelasun/extract_property": "1.*"
     }
 }
 ```
@@ -91,5 +91,5 @@ you are including Composer's autoloader.
 _However, you do not need Composer to use this library._
 
 This library has no dependencies and should work on older versions of PHP.
-Download the code and include `src/extract_property.php` in your project, and all
+Download the code and include `src/extract_property.php` in your project, and everything
 should work fine.
