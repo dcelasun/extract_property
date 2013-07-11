@@ -1,6 +1,6 @@
 # extract_property() for PHP
 
-This simple library provides an easy to extract a given property from an array of objects.
+This simple library provides an easy way to extract a given property from an array of objects.
 
 ## Usage
 
@@ -9,7 +9,7 @@ array extract_property( array $objects [, mixed $key] [, mixed $index] )
 ```
 
 Given an array of objects, `extract_property()` returns the values
-from a single property of each object, identified by $key`.
+from a single property of each object, identified by `$key`.
 Optionally, you may provide an `$index` to index the values in the returned
 array by the values from the `$index` property of each object in the input array.
 
